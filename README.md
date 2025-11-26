@@ -119,9 +119,10 @@ I’ve built 6+ real-world projects including:
 
   **📊 GitHub Stats**
 
-  ![Shraddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shraddha524&show_icons=true&theme=radical)
+![Shraddha's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=shraddha524&show_icons=true&theme=radical)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha524&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha524&layout=compact&theme=radical)
 
 
  ---
